@@ -35,6 +35,9 @@ struct ContentView: View {
             Text("First project on GitHub")
         }
         .padding()
+        .onAppear() {
+            // Add Analytics Code here
+        }
     }
 }
 
