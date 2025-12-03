@@ -13,6 +13,8 @@ struct HomeView: View {
         Circle()
             .fill(.red)
             .frame(width: 100, height: 100)
+        Rectangle()
+            .frame(width: 100, height: 100)
     }
 }
 
