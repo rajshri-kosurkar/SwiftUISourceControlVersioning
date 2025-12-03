@@ -29,7 +29,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "heart.fill")
+            Image(systemName: "house.fill")
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
             Text("First project on GitHub")
