@@ -9,7 +9,7 @@ import SwiftUI
 
 struct HomeView: View {
     var body: some View {
-        Text("Check for Pull Requests(PR)")
+        Text("Merge options : PR Merge & Squash and merge commit message")
         Circle()
             .fill(.red)
             .frame(width: 100, height: 100)
