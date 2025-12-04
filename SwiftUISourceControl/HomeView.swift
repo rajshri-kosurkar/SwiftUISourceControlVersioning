@@ -9,7 +9,7 @@ import SwiftUI
 
 struct HomeView: View {
     var body: some View {
-        Text("Home View")
+        Text("Check for Pull Requests(PR)")
         Circle()
             .fill(.red)
             .frame(width: 100, height: 100)
