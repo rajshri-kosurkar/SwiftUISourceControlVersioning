@@ -1,4 +1,4 @@
-# Source Control Versioning 🤙
+# Source Control Versioning 
 Full source code for the Source Control Versioning
 
 # How It Works
